@@ -1,9 +1,10 @@
+
 Farbpalette
 
 Rot
-
 Grün
-
 Blau
+Hellbalau
+Dunkelblau
 
 Sind alles tolle Farben
